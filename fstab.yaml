@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/Shawn-Labrecque/CORT/
+    type: markup
+
+folders:
+  /products/: /products/default
